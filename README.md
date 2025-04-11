@@ -1,4 +1,4 @@
-# 🔐 Educational Python Keylogger
+# Educational Python Keylogger
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -9,16 +9,16 @@
 
 This is a cross-platform Python keylogger built to demonstrate red team tactics and teach ethical cybersecurity awareness.
 
-## 🚀 Features
+## Features
 
-- ✅ Cross-platform: Windows, macOS, Linux
-- 📋 Clipboard monitoring
-- 📩 Auto email logs every X minutes
-- 🖥️ Logs active window titles
-- 🧠 Dumps system info on start
-- 🫥 Stealth mode (Windows + silent Linux/macOS)
+- Cross-platform: Windows, macOS, Linux
+- Clipboard monitoring
+- Auto email logs every X minutes
+- Logs active window titles
+- Dumps system info on start
+- Stealth mode (Windows + silent Linux/macOS)
 
-## 🛠️ Setup
+## Setup
 
 1. Clone the repo:
    ```bash
@@ -43,8 +43,8 @@ This is a cross-platform Python keylogger built to demonstrate red team tactics 
    python keylogger.py
    ```
 
-## 🔒 Ethical Use
+## Ethical Use
 
 This project is intended to help defenders understand attacker tactics. Use it only in controlled lab environments.
 
-📘 See the [CASE_STUDY.md](./CASE_STUDY.md) for a practical walkthrough.
+See the [CASE_STUDY.md](./CASE_STUDY.md) for a practical walkthrough.

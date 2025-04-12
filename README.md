@@ -4,7 +4,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Repo size](https://img.shields.io/github/repo-size/Mira2720/keylogger-edu)
 
-**Created by Mira2720 (GitHub: https://github.com/Mira2720)**  
+**Created by BackdoorAli (GitHub: https://github.com/BackdoorAli)**  
 ⚠️ **For educational purposes only. Unauthorized use is strictly prohibited.**
 
 This is a cross-platform Python keylogger built to demonstrate red team tactics and teach ethical cybersecurity awareness.

@@ -1,6 +1,6 @@
 """
 Educational Python Keylogger
-Created by Mira2720 (GitHub: https://github.com/Mira2720)
+Created by BackdoorAli (GitHub: https://github.com/BackdoorAli)
 For educational purposes only. Unauthorized use is strictly prohibited.
 """
 

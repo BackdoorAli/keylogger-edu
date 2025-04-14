@@ -5,7 +5,7 @@
 ![Repo size](https://img.shields.io/github/repo-size/Mira2720/keylogger-edu)
 
 
-**Created by BackdoorAli (GitHub: https://github.com/BackdoorAli)**  
+**Created by BackdoorAli aka NotAlita (GitHub: https://github.com/BackdoorAli)**  
 
 
 ⚠️ **For educational purposes only. Unauthorized use is strictly prohibited.**

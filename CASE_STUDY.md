@@ -25,5 +25,5 @@ Pair with the [Keylogger Defender](https://github.com/Mira2720/keylogger-defende
 
 ---
 
-**Created by BackdoorAli (GitHub: https://github.com/BackdoorAli)**  
+**Created by BackdoorAli aka NotAlita (GitHub: https://github.com/BackdoorAli)**  
 *For educational use only.*

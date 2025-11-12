@@ -1,7 +1,7 @@
 """
 Educational Python Keylogger
 Created by BackdoorAli (GitHub: https://github.com/BackdoorAli)
-For educational purposes only. Unauthorized use is strictly prohibited.
+For educational purposes only. Unauthorised use is strictly prohibited.
 """
 
 import os

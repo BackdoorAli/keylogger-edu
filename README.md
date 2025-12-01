@@ -26,7 +26,7 @@ This is a cross-platform Python keylogger built to demonstrate red team tactics 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Mira2720/keylogger-edu.git
+   git clone https://github.com/BackdoorAli/keylogger-edu.git
    cd keylogger-edu
    ```
 
